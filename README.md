@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Abdalrahman Alhamod
+  Hi, I'm Guti
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -123,7 +123,7 @@
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
+
 
 ---
 
@@ -131,6 +131,3 @@
 
 ------
 
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
